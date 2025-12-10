@@ -90,6 +90,7 @@ ipython_config.py
 env/
 venv/
 ENV/
+env.py
 env.bak/
 venv.bak/
 .pdm-python
