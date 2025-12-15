@@ -1,0 +1,1 @@
+console.log("This is log from 'static/js/ScriptProcessorNode.js'!")
